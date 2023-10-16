@@ -13,3 +13,6 @@ Success Page:
 
 Failure Page which redirects to Sign Up page by clicking on Try Again
 ![image](https://github.com/doshiMiraj/News-Letter-SignUp-Website/assets/114590608/e2006759-1ad5-4de4-bb1c-f82b39d5ccdb)
+
+Details of signed up users onto mailchimp server:
+![image](https://github.com/doshiMiraj/News-Letter-SignUp-Website/assets/114590608/934cda44-f8c6-4c8b-9151-3c039c8a8108)
